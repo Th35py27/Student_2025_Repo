@@ -1,3 +1,10 @@
+---
+layout: base
+title: NT Home Page
+description: Home Page
+hide: true
+---
+
 <div style="text-align: center; padding: 2rem; background-color: #f0f0f0;">
   <h1 style="font-size: 3rem; color: #333;">Welcome to NT Home Page</h1>
   <p style="font-size: 1.5rem; color: #666;">We are students in our AP CSA class at Del Norte High School</p>
@@ -26,10 +33,4 @@
   <p style="font-size: 1.2rem; color: #666;">
 	Feel free to reach out to us at <a href="mailto:your-email@example.com" style="color: #007acc;">your-email@example.com</a>.
   </p>
-</div>---
-layout: base
-title: NT Home Page
-description: Home Page
-hide: true
----
-
+</div>
