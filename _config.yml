@@ -2,8 +2,8 @@ title: NT Pages
 description: "Class of 2025"
 owner_name: Torin And Nandan
 github_username: TDWolff
-github_repo: "student_2025" 
-baseurl: "/nt_pages"
+github_repo: "Student_2025" 
+baseurl: "/Student_2025"
 future: true
 # remote_theme: jekyll/minima
 minima:
