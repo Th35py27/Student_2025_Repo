@@ -17,6 +17,13 @@ hide: true
   <p style="font-size: 1.2rem; color: #666;">
 	We are passionate about computer science and are excited to share our journey with you. This page is dedicated to showcasing our projects, achievements, and experiences in the AP Computer Science A class.
   </p>
+  <p>
+  Our Members:
+  Nandaan, and Torin.
+  </P>
+  <li>
+  <strong>Torin:</strong> I am from San Diego California, and I am a junior in highschool here at Del Norte. I have a heritage rooted in European countries, Latvia, Germany, Ireland, and Nordic. My lastname is from my German side and my Mom's side is fully from Latvia. I love to play Volleyball and I also love computers.
+  </li>
 </div>
 
 <div style="padding: 2rem; background-color: #f9f9f9;">
