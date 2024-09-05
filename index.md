@@ -1,3 +1,10 @@
+---
+layout: base
+title: NT Home Page
+description: Home Page
+hide: true
+---
+
 <div style="text-align: center; padding: 2rem; background-color: #f0f0f0;">
   <h1 style="font-size: 3rem; color: #333;">Welcome to NT Home Page</h1>
   <p style="font-size: 1.5rem; color: #666;">We are students in our AP CSA class at Del Norte High School</p>
@@ -10,6 +17,13 @@
   <p style="font-size: 1.2rem; color: #666;">
 	We are passionate about computer science and are excited to share our journey with you. This page is dedicated to showcasing our projects, achievements, and experiences in the AP Computer Science A class.
   </p>
+  <p>
+  Our Members:
+  Nandaan, and Torin.
+  </P>
+  <li>
+  <strong>Torin:</strong> I am from San Diego California, and I am a junior in highschool here at Del Norte. I have a heritage rooted in European countries, Latvia, Germany, Ireland, and Nordic. My lastname is from my German side and my Mom's side is fully from Latvia. I love to play Volleyball and I also love computers.
+  </li>
 </div>
 
 <div style="padding: 2rem; background-color: #f9f9f9;">
@@ -26,10 +40,4 @@
   <p style="font-size: 1.2rem; color: #666;">
 	Feel free to reach out to us at <a href="mailto:your-email@example.com" style="color: #007acc;">your-email@example.com</a>.
   </p>
-</div>---
-layout: base
-title: NT Home Page
-description: Home Page
-hide: true
----
-
+</div>
